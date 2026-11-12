@@ -1,0 +1,6 @@
+{
+  "name": "Z-MARGIN // 限界余白 — Touge Expedition Team",
+  "description": "Official expedition portal of Z-MARGIN street racing trio in Riyadh. Race schedules, course records, sleeper telemetry, and driver histories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
